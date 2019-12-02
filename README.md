@@ -1,15 +1,5 @@
-# 🚀 Welcome to your new awesome project!
+# 🚀 Welcome to your Filter project!
 
-This project has been created using **webpack scaffold**, you can now run
+npm run start
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+to start your application
